@@ -1,2 +1,3 @@
-# studentbecomesteacher.github.io
-website
+<html>
+  easy github website
+  </html>
